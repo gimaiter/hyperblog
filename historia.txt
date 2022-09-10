@@ -1,7 +1,3 @@
 Hola es mi historia
 
-agregue 1
-
-agregue 2
-
-agregue 3
+agregue 2.1
